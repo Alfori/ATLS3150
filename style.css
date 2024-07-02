@@ -1,0 +1,47 @@
+h1 {
+    color: green;
+  }
+  
+h2{
+    color: blue;
+    text-shadow: #800080;
+    text-decoration: dashed;
+    text-shadow: blue;
+    rotate: 25px;
+}
+
+p{
+    color: gray
+}
+
+ol {
+  border: 2px solid purple;
+}
+
+ul {
+    border: 2px solid orange;
+  }
+
+ol, ul {
+  padding: 5px 20px;
+  border-radius: 4px;
+}
+
+h1, strong {
+  color: purple;
+}
+
+em {
+  color: gray;
+}
+
+.highlight {
+  color: #800080; /* purple color */
+  font-weight: bold;
+}
+.important {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+}
