@@ -7,7 +7,10 @@ h2{
     text-shadow: #800080;
     text-decoration: dashed;
     text-shadow: blue;
-    
+}
+
+h2[1]{
+    color: green;
 }
 
 p{
