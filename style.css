@@ -2,14 +2,13 @@ h1 {
     color: green;
   }
   
-h2{
+h2 {
     color: blue;
-    text-shadow: #800080;
-    text-decoration: dashed;
-    text-shadow: blue;
+    text-shadow: 2px 2px 4px #800080;
+    text-decoration: underline;
 }
 
-h2:first-child{
+h2:first-child {
     color: green;
 }
 
