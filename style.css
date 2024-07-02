@@ -7,7 +7,7 @@ h2{
     text-shadow: #800080;
     text-decoration: dashed;
     text-shadow: blue;
-    rotate: 25px;
+    
 }
 
 p{
@@ -38,9 +38,12 @@ em {
 .highlight {
   color: #800080; /* purple color */
   font-weight: bold;
+  font-style: i
 }
 .important {
   font-style: italic;
+  font-stretch: 45px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .bold {
   font-weight: bold;
