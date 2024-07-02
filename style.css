@@ -9,7 +9,7 @@ h2{
     text-shadow: blue;
 }
 
-h2[1]{
+h2:second-child{
     color: green;
 }
 
